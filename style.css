@@ -1,0 +1,22 @@
+.body {
+  background-color: black;
+  font-family: system,-apple-system, BlinkMacSystemFont,'Segoe UI','Segoe WP',Roboto,Ubuntu,Oxygen,Cantarell,'Fira Sans','Helvetica Neue',Helvetica,'Lucida Grande','Droid Sans',Tahoma,'Microsoft Sans Serif',sans-serif;
+}
+
+.buy-button {
+  margin: 0;
+  padding: 11px 60px;
+  font-family: inherit;
+  font-weight: 600;
+  background-color: white;
+  border: 2px solid #cb11ab;
+  border-radius: 8px;
+  color: #cb11ab;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.buy-button:hover {
+  border-color: rgba(203,17,171,.56);
+}
